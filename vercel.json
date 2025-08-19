@@ -1,0 +1,6 @@
+{
+  "redirects": [
+    { "source": "https://darolid.com/:path*", "destination": "https://www.darolid.com/:path*", "permanent": true },
+    { "source": "https://darolid.ir/:path*", "destination": "https://www.darolid.ir/:path*", "permanent": true }
+  ]
+}
